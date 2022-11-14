@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#before-preloader-text{
+    display: none;
+}
+.fontLoader{
+    display: none;
+}
